@@ -1,0 +1,11 @@
+django==6.1.1
+djangorestframework==3.18.1
+django-cors-headers==4.9.0
+scikit-learn==1.9.1
+xgboost==3.4.1
+pandas==3.0.6
+joblib==1.6.0
+google-generativeai==0.8.6
+python-dotenv==1.2.4
+psycopg2-binary
+djangorestframework-simplejwt==5.5.1

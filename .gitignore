@@ -1,0 +1,39 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Dossiers et caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Variables d'environnement et secrets
+.env
+.env.local
+kaggle.json
+**/kaggle.json
+
+# Dossiers Node.js
+node_modules/
+dist/
+build/
+
+# Base de données locales
+*.sqlite3
+db.sqlite3
+local_qdrant/
+
+# Modèles ML et gros fichiers binaires (optionnel, mais recommandé si très lourd)
+# ml_core/*.pkl
+# ml_core/*.joblib
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Fichiers personnels de triche/brouillon (Ne pas pousser)
+EXPLICATION_ARCHITECTURE.md
+PLAN_DEVELOPPEMENT.md
