@@ -119,6 +119,3 @@ Pour évaluer les capacités de l'architecture hybride, naviguez vers la section
 *   **Entrée :** `Félicitations ! Vous avez été sélectionné pour recevoir le tout dernier iPhone 15 gratuit. Cliquez sur le lien ci-dessous et connectez-vous avec vos identifiants pour régler les frais de livraison de 2 euros : http://claim-prize-now-apple.com`
 *   **Résultat Attendu :** L'IA Générative détecte la promesse de récompense factice et l'incitation à cliquer. Verdict : **PHISHING DÉTECTÉ**, avec explication détaillée du SOC Virtuel.
 
----
-
-*Ce projet représente une implémentation complète de bout en bout d'un produit de cybersécurité assisté par l'IA, conçu pour une présentation académique et la démonstration d'une efficacité pratique.*
